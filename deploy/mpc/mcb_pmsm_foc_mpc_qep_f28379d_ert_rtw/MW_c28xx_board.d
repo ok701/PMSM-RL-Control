@@ -1,9 +1,9 @@
-MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_c28xx_board.c
+MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_c28xx_board.c
 MW_c28xx_board.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000BoardSupport.h
 MW_c28xx_board.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/stdbool.h
 MW_c28xx_board.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/_ti_config.h
 MW_c28xx_board.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/linkage.h
-MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h
+MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h
 MW_c28xx_board.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h
 MW_c28xx_board.obj: C:/ti/c2000/C2000Ware_5_02_00_00/device_support/f2837xd/headers/include/F2837xD_device.h
 MW_c28xx_board.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/assert.h
@@ -77,37 +77,37 @@ MW_c28xx_board.obj: C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd\driverlib
 MW_c28xx_board.obj: C:/ti/c2000/C2000Ware_5_02_00_00/driverlib/f2837xd/driverlib/clb.h
 MW_c28xx_board.obj: C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd\driverlib\inc/hw_clb.h
 MW_c28xx_board.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000/inc/c2837xDInit.h
-MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
+MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
 MW_c28xx_board.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h
 MW_c28xx_board.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000SchedulerTimer.h
-MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d.h
+MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d.h
 MW_c28xx_board.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/string.h
 MW_c28xx_board.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/xlocale/_string.h
-MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\DSP28xx_SciUtil.h
+MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\DSP28xx_SciUtil.h
 MW_c28xx_board.obj: C:/ti/c2000/C2000Ware_5_02_00_00/libraries/math/IQmath/c28/include/IQmathLib.h
 MW_c28xx_board.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/limits.h
 MW_c28xx_board.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/target/shared/svd/common/include/MW_SPI.h
 MW_c28xx_board.obj: C:\PROGRA~1\MATLAB\R2024b\toolbox\target\shared\svd\common\include\MW_digitalIO.h
 MW_c28xx_board.obj: C:\PROGRA~1\MATLAB\R2024b\toolbox\target\shared\svd\common\include\MW_SVD.h
 MW_c28xx_board.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000/inc/MW_c2000ISR.h
-MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
-MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d_types.h
+MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
+MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d_types.h
 MW_c28xx_board.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000/inc/MW_c2000SPI.h
 MW_c28xx_board.obj: C:\PROGRA~1\MATLAB\R2024b\toolbox\c2b\tic2000\inc\MW_c28xSPI.h
 MW_c28xx_board.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_c28xGPIO.h
-MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
-MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
-MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\rtGetNaN.h
-MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\rt_nonfinite.h
-MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\MW_target_hardware_resources.h
-MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d_private.h
+MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
+MW_c28xx_board.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
+MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\rtGetNaN.h
+MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\rt_nonfinite.h
+MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\MW_target_hardware_resources.h
+MW_c28xx_board.obj: C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d_private.h
 
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_c28xx_board.c:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_c28xx_board.c:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000BoardSupport.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/stdbool.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/_ti_config.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/linkage.h:
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h:
 C:/ti/c2000/C2000Ware_5_02_00_00/device_support/f2837xd/headers/include/F2837xD_device.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/assert.h:
@@ -181,28 +181,28 @@ C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd\driverlib\inc/hw_dma.h:
 C:/ti/c2000/C2000Ware_5_02_00_00/driverlib/f2837xd/driverlib/clb.h:
 C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd\driverlib\inc/hw_clb.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000/inc/c2837xDInit.h:
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000SchedulerTimer.h:
-C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d.h:
+C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/string.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/xlocale/_string.h:
-C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\DSP28xx_SciUtil.h:
+C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\DSP28xx_SciUtil.h:
 C:/ti/c2000/C2000Ware_5_02_00_00/libraries/math/IQmath/c28/include/IQmathLib.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/limits.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/target/shared/svd/common/include/MW_SPI.h:
 C:\PROGRA~1\MATLAB\R2024b\toolbox\target\shared\svd\common\include\MW_digitalIO.h:
 C:\PROGRA~1\MATLAB\R2024b\toolbox\target\shared\svd\common\include\MW_SVD.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000/inc/MW_c2000ISR.h:
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
-C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d_types.h:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
+C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d_types.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000/inc/MW_c2000SPI.h:
 C:\PROGRA~1\MATLAB\R2024b\toolbox\c2b\tic2000\inc\MW_c28xSPI.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_c28xGPIO.h:
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
-C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\rtGetNaN.h:
-C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\rt_nonfinite.h:
-C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\MW_target_hardware_resources.h:
-C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d_private.h:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
+C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\rtGetNaN.h:
+C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\rt_nonfinite.h:
+C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\MW_target_hardware_resources.h:
+C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\mcb_pmsm_foc_mpc_qep_f28379d_private.h:
 

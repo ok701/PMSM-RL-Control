@@ -1,5 +1,5 @@
-DSP28xx_SciUtil.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/DSP28xx_SciUtil.c
-DSP28xx_SciUtil.obj: C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\DSP28xx_SciUtil.h
+DSP28xx_SciUtil.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/DSP28xx_SciUtil.c
+DSP28xx_SciUtil.obj: C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\DSP28xx_SciUtil.h
 DSP28xx_SciUtil.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h
 DSP28xx_SciUtil.obj: C:/ti/c2000/C2000Ware_5_02_00_00/device_support/f2837xd/headers/include/F2837xD_device.h
 DSP28xx_SciUtil.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/assert.h
@@ -76,16 +76,16 @@ DSP28xx_SciUtil.obj: C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd\driverli
 DSP28xx_SciUtil.obj: C:/ti/c2000/C2000Ware_5_02_00_00/driverlib/f2837xd/driverlib/clb.h
 DSP28xx_SciUtil.obj: C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd\driverlib\inc/hw_clb.h
 DSP28xx_SciUtil.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000/inc/c2837xDInit.h
-DSP28xx_SciUtil.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h
-DSP28xx_SciUtil.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
+DSP28xx_SciUtil.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h
+DSP28xx_SciUtil.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
 DSP28xx_SciUtil.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000BoardSupport.h
 DSP28xx_SciUtil.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h
 DSP28xx_SciUtil.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000SchedulerTimer.h
 DSP28xx_SciUtil.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/string.h
 DSP28xx_SciUtil.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/xlocale/_string.h
 
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/DSP28xx_SciUtil.c:
-C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\DSP28xx_SciUtil.h:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/DSP28xx_SciUtil.c:
+C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw\DSP28xx_SciUtil.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h:
 C:/ti/c2000/C2000Ware_5_02_00_00/device_support/f2837xd/headers/include/F2837xD_device.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/assert.h:
@@ -162,8 +162,8 @@ C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd\driverlib\inc/hw_dma.h:
 C:/ti/c2000/C2000Ware_5_02_00_00/driverlib/f2837xd/driverlib/clb.h:
 C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd\driverlib\inc/hw_clb.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000/inc/c2837xDInit.h:
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h:
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000BoardSupport.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000SchedulerTimer.h:

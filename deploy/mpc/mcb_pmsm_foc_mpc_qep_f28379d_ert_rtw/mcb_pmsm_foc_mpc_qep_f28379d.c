@@ -7,9 +7,9 @@
  *
  * Code generated for Simulink model 'mcb_pmsm_foc_mpc_qep_f28379d'.
  *
- * Model version                  : 9.0
+ * Model version                  : 9.1
  * Simulink Coder version         : 24.2 (R2024b) 21-Jun-2024
- * C/C++ source code generated on : Tue Dec 10 12:39:38 2024
+ * C/C++ source code generated on : Wed Dec 11 16:26:04 2024
  *
  * Target selection: ert.tlc
  * Embedded hardware selection: Texas Instruments->C2000
@@ -127,17 +127,16 @@ static void rate_monotonic_scheduler(void)
 void mcb_pmsm_foc_m_TwoinputsCRL(real32_T rtu_Ds, real32_T rtu_Qs, real32_T
   rtu_sin, real32_T rtu_cos, real32_T *rty_Alpha, real32_T *rty_Beta)
 {
-  /* Sum: '<S49>/sum_beta' incorporates:
+  /* AlgorithmDescriptorDelegate generated from: '<S49>/a16' incorporates:
+   *  Product: '<S49>/dcos'
    *  Product: '<S49>/dsin'
    *  Product: '<S49>/qcos'
-   */
-  *rty_Beta = rtu_Qs * rtu_cos + rtu_Ds * rtu_sin;
-
-  /* Sum: '<S49>/sum_alpha' incorporates:
-   *  Product: '<S49>/dcos'
    *  Product: '<S49>/qsin'
+   *  Sum: '<S49>/sum_alpha'
+   *  Sum: '<S49>/sum_beta'
    */
   *rty_Alpha = rtu_Ds * rtu_cos - rtu_Qs * rtu_sin;
+  *rty_Beta = rtu_Qs * rtu_cos + rtu_Ds * rtu_sin;
 }
 
 /*

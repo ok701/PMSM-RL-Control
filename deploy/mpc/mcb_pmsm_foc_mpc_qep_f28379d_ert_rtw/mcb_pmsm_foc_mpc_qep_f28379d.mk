@@ -2,7 +2,7 @@
 ## Makefile generated for component 'mcb_pmsm_foc_mpc_qep_f28379d'. 
 ## 
 ## Makefile     : mcb_pmsm_foc_mpc_qep_f28379d.mk
-## Generated on : Tue Dec 10 10:29:35 2024
+## Generated on : Wed Dec 11 16:26:19 2024
 ## Final product: $(RELATIVE_PATH_TO_ANCHOR)/mcb_pmsm_foc_mpc_qep_f28379d.out
 ## Product type : executable
 ## 
@@ -21,7 +21,7 @@ MAKEFILE                  = mcb_pmsm_foc_mpc_qep_f28379d.mk
 MATLAB_ROOT               = C:/PROGRA~1/MATLAB/R2024b
 MATLAB_BIN                = C:/PROGRA~1/MATLAB/R2024b/bin
 MATLAB_ARCH_BIN           = $(MATLAB_BIN)/win64
-START_DIR                 = C:/Users/awear/my_projects/pmsm/deployment/mpc
+START_DIR                 = C:/Users/awear/my_projects/pmsm/deploy/mpc
 SOLVER                    = 
 SOLVER_OBJ                = 
 CLASSIC_INTERFACE         = 0

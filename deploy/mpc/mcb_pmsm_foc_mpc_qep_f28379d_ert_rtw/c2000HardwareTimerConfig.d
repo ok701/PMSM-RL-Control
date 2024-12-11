@@ -1,10 +1,10 @@
 c2000HardwareTimerConfig.obj: C:/Program\ Files/MATLAB/R2024b/toolbox/c2b/tic2000/src/c2000HardwareTimerConfig.c
-c2000HardwareTimerConfig.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
+c2000HardwareTimerConfig.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
 c2000HardwareTimerConfig.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000BoardSupport.h
 c2000HardwareTimerConfig.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/stdbool.h
 c2000HardwareTimerConfig.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/_ti_config.h
 c2000HardwareTimerConfig.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/linkage.h
-c2000HardwareTimerConfig.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h
+c2000HardwareTimerConfig.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h
 c2000HardwareTimerConfig.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h
 c2000HardwareTimerConfig.obj: C:/ti/c2000/C2000Ware_5_02_00_00/device_support/f2837xd/headers/include/F2837xD_device.h
 c2000HardwareTimerConfig.obj: C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/assert.h
@@ -78,16 +78,16 @@ c2000HardwareTimerConfig.obj: C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd
 c2000HardwareTimerConfig.obj: C:/ti/c2000/C2000Ware_5_02_00_00/driverlib/f2837xd/driverlib/clb.h
 c2000HardwareTimerConfig.obj: C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd\driverlib\inc/hw_clb.h
 c2000HardwareTimerConfig.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000/inc/c2837xDInit.h
-c2000HardwareTimerConfig.obj: C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
+c2000HardwareTimerConfig.obj: C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h
 c2000HardwareTimerConfig.obj: C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000SchedulerTimer.h
 
 C:/Program\ Files/MATLAB/R2024b/toolbox/c2b/tic2000/src/c2000HardwareTimerConfig.c:
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000BoardSupport.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/stdbool.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/_ti_config.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/linkage.h:
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/rtwtypes.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/inc/MW_f2837xD_includes.h:
 C:/ti/c2000/C2000Ware_5_02_00_00/device_support/f2837xd/headers/include/F2837xD_device.h:
 C:/Users/awear/MY_INS~1/TI-CGT~3.LTS/include/assert.h:
@@ -161,6 +161,6 @@ C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd\driverlib\inc/hw_dma.h:
 C:/ti/c2000/C2000Ware_5_02_00_00/driverlib/f2837xd/driverlib/clb.h:
 C:\ti\c2000\C2000Ware_5_02_00_00\driverlib\f2837xd\driverlib\inc/hw_clb.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000/inc/c2837xDInit.h:
-C:/Users/awear/my_projects/pmsm/deployment/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
+C:/Users/awear/my_projects/pmsm/deploy/mpc/mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw/MW_target_hardware_resources.h:
 C:/PROGRA~1/MATLAB/R2024b/toolbox/c2b/tic2000_shared/src/c2000SchedulerTimer.h:
 

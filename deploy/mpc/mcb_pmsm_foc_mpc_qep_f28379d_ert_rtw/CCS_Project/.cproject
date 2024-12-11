@@ -28,13 +28,13 @@
 <option id="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.INCLUDE_PATH.1515724014" superClass="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.INCLUDE_PATH" valueType="includePath">
 <listOptionValue builtIn="false" value="${CG_TOOL_ROOT}/include">
 </listOptionValue>
-<listOptionValue builtIn="false" value="C:\Users\awear\my_projects\pmsm\deployment\mpc">
+<listOptionValue builtIn="false" value="C:\Users\awear\my_projects\pmsm\deploy\mpc">
 </listOptionValue>
 <listOptionValue builtIn="false" value="C:\Program Files\MATLAB\R2024b\toolbox\target\shared\svd\common\include">
 </listOptionValue>
 <listOptionValue builtIn="false" value="C:\Program Files\MATLAB\R2024b\toolbox\c2b\tic2000\inc">
 </listOptionValue>
-<listOptionValue builtIn="false" value="C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw">
+<listOptionValue builtIn="false" value="C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw">
 </listOptionValue>
 <listOptionValue builtIn="false" value="C:\Program Files\MATLAB\R2024b\extern\include">
 </listOptionValue>
@@ -234,13 +234,13 @@
 <option id="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.INCLUDE_PATH.899964030" superClass="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.INCLUDE_PATH" valueType="includePath">
 <listOptionValue builtIn="false" value="${CG_TOOL_ROOT}/include">
 </listOptionValue>
-<listOptionValue builtIn="false" value="C:\Users\awear\my_projects\pmsm\deployment\mpc">
+<listOptionValue builtIn="false" value="C:\Users\awear\my_projects\pmsm\deploy\mpc">
 </listOptionValue>
 <listOptionValue builtIn="false" value="C:\Program Files\MATLAB\R2024b\toolbox\target\shared\svd\common\include">
 </listOptionValue>
 <listOptionValue builtIn="false" value="C:\Program Files\MATLAB\R2024b\toolbox\c2b\tic2000\inc">
 </listOptionValue>
-<listOptionValue builtIn="false" value="C:\Users\awear\my_projects\pmsm\deployment\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw">
+<listOptionValue builtIn="false" value="C:\Users\awear\my_projects\pmsm\deploy\mpc\mcb_pmsm_foc_mpc_qep_f28379d_ert_rtw">
 </listOptionValue>
 <listOptionValue builtIn="false" value="C:\Program Files\MATLAB\R2024b\extern\include">
 </listOptionValue>

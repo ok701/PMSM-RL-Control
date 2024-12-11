@@ -7,9 +7,9 @@
  *
  * Code generated for Simulink model 'mcb_pmsm_foc_mpc_qep_f28379d'.
  *
- * Model version                  : 9.0
+ * Model version                  : 9.1
  * Simulink Coder version         : 24.2 (R2024b) 21-Jun-2024
- * C/C++ source code generated on : Tue Dec 10 12:39:38 2024
+ * C/C++ source code generated on : Wed Dec 11 16:26:04 2024
  *
  * Target selection: ert.tlc
  * Embedded hardware selection: Texas Instruments->C2000
