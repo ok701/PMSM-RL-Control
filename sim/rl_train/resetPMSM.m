@@ -11,6 +11,11 @@ function in = resetPMSM(in)
     in = setBlockParameter(in,blk,'Time','0');
     in = setBlockParameter(in,blk,'Before','0');
     in = setBlockParameter(in,blk,'After',num2str(refspeed));
+
+    % added block for random inertia
+    rng('shuffle'); 
+    rand_val = rand()*0.0001;
+    assignin('base', 'disturbance', rand_val);
     
     % set train flag for is done signal
     in = setBlockParameter(in,'mcb_pmsm_foc_sim_RL/Current Control/Control_System/Closed Loop Control/Reinforcement Learning/IsDone/TrainFlag','Value','1');
