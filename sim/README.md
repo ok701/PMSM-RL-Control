@@ -45,6 +45,7 @@ Converts the continuous-time model to a discrete-time model using the specified 
 
 ### Constraints
 
+![Response Image](./sim_data/agent/constraint.png)
 The MPC controller handles both voltage and current constraints by approximating their nonlinear boundaries as polytopes. These constraints ensure safe and efficient operation of the PMSM.
 
 #### Voltage Constraints
@@ -72,21 +73,6 @@ The voltage and current constraints are represented in a unified matrix form:
   - **Control Horizon**: 1 step.
   - **Sampling Time**: `Ts_mpc`.
   - **Output Disturbance Model**: First-order difference model.
-
-
-### Constraints
-#### Voltage Constraints
-- Approximates the circular voltage constraint as a **6-faced polytope**:
-  - Six vertices are calculated along the circle using angular divisions.
-  - Linear equations for the faces are derived using `polyfit`.
-
-- **Voltage Constraints**:
-  - Approximated as a 6-sided polygon.
-  - Blue points represent feasible regions, while red points indicate infeasible regions.
-- **Current Constraints**:
-  - Approximated as a 4-sided polygon.
-  - Similar feasible/infeasible point representation.
-
 
 
 ## Step Response Evaluation
