@@ -1,6 +1,6 @@
-# PMSM Control Simulation
+# Simulation
 
-This repository contains simulations for controlling a Permanent Magnet Synchronous Motor (PMSM) using Field-Oriented Control (FOC). The simulations are implemented in three different control strategies:
+This contains simulations for controlling a Permanent Magnet Synchronous Motor (PMSM). The simulations are implemented in three different control strategies:
 
 1. **Traditional PI Control**
 2. **Reinforcement Learning (RL) Based Control**
@@ -8,17 +8,17 @@ This repository contains simulations for controlling a Permanent Magnet Synchron
 
 To explore each simulation, navigate to the respective directory.
 
----
 
-## Reinforcement Learning (RL) Control
+
+## Reinforcement Learning (RL) Training
 
 In the RL-based control, the reward function plays a crucial role in determining the performance. Below is the reward curve for the RL agent:
 
 ![Reward Image](./sim_data/agent/reward.png)
 
----
 
-### Response Analysis
+
+### Reward
 
 The figure below shows the motor's response under different reward coefficients. 
 
@@ -29,9 +29,14 @@ The figure below shows the motor's response under different reward coefficients.
 
 ![Response Image](./sim_data/agent/reward_var.png)
 
----
 
-### Step Response Evaluation
+### Load
+
+During training, the model considers the option of load torque, which includes the effects of viscous friction and inertia. These effects are proportional to velocity and acceleration, respectively. The default coefficients are set to 0.0001 for inertia and 0.0001 × 0.3 for viscous friction. Additionally, these coefficients are randomized within a range, including a value of zero, to account for variability in system dynamics.
+
+
+
+## Step Response Evaluation
 
 To evaluate the step response of the simulated data, use the provided MATLAB Live Script:
 
