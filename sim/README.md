@@ -9,7 +9,6 @@ This contains simulations for controlling a Permanent Magnet Synchronous Motor (
 To explore each simulation, navigate to the respective directory.
 
 
-
 ## Reinforcement Learning (RL) Training
 
 In the RL-based control, the reward function plays a crucial role in determining the performance. Below is the reward curve for the RL agent:
@@ -33,6 +32,60 @@ The figure below shows the motor's response under different reward coefficients.
 ### Load
 
 During training, the model considers the option of load torque, which includes the effects of viscous friction and inertia. These effects are proportional to velocity and acceleration, respectively. The default coefficients are set to 0.0001 for inertia and 0.0001 × 0.3 for viscous friction. Additionally, these coefficients are randomized within a range, including a value of zero, to account for variability in system dynamics.
+
+
+
+## MPC
+
+### State-Space Model
+Constructs a **state-space model** of the PMSM in the **per-unit system** using the following equations:
+![Response Image](./sim_data/agent/SSM.png)
+
+Converts the continuous-time model to a discrete-time model using the specified PWM sampling period (`T_pwm`).
+
+### Constraints
+
+The MPC controller handles both voltage and current constraints by approximating their nonlinear boundaries as polytopes. These constraints ensure safe and efficient operation of the PMSM.
+
+#### Voltage Constraints
+- **Shape**: Circular voltage constraint approximated as a **6-faced polytope**.
+- **Approximation**: Six vertices are calculated using angular divisions, and linear equations for the polytopic faces are derived using `polyfit`.
+- Blue points represent feasible regions, while red points indicate infeasible regions.
+
+#### Current Constraints
+- **Shape**: Half-circle current constraint approximated as a **4-faced polytope**.
+- **Approximation**: Four vertices are calculated along the half-circle, reflecting the near-zero \( I_d \) in constant torque operation.
+- Blue points represent feasible regions, while red points indicate infeasible regions.
+- Similar feasible/infeasible point representation.
+
+#### Unified Constraint Representation
+The voltage and current constraints are represented in a unified matrix form:
+- \( E \): Coefficients for state variables.
+- \( F \): Coefficients for input variables.
+- \( G \): Constant terms for the inequalities.
+- \( V \): Slack variables for soft constraints.
+
+### MPC Object
+- An MPC object is initialized using the discretized plant model.
+- **MPC Configuration**:
+  - **Prediction Horizon**: 2 steps.
+  - **Control Horizon**: 1 step.
+  - **Sampling Time**: `Ts_mpc`.
+  - **Output Disturbance Model**: First-order difference model.
+
+
+### Constraints
+#### Voltage Constraints
+- Approximates the circular voltage constraint as a **6-faced polytope**:
+  - Six vertices are calculated along the circle using angular divisions.
+  - Linear equations for the faces are derived using `polyfit`.
+
+- **Voltage Constraints**:
+  - Approximated as a 6-sided polygon.
+  - Blue points represent feasible regions, while red points indicate infeasible regions.
+- **Current Constraints**:
+  - Approximated as a 4-sided polygon.
+  - Similar feasible/infeasible point representation.
 
 
 
